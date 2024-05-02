@@ -1,0 +1,38 @@
+.signIn{
+       
+    background-image: url("C:\Users\shubh\OneDrive\Desktop\INSTACLONE\frontend\src\img\background.jpg");
+    background-size: cover;
+    flex: 1;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+    /* height: 100vh; */
+
+}
+
+.loginForm{
+    background-color:#ffffff9c;
+    padding: 10px;
+    border:1px solid rgb(129, 121, 121);
+    border-radius: 1px;
+    /* width is done by me */
+    width: 300px;
+}
+.loginForm2{
+    background-color: #ffffff9c;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid rgb(129, 121, 121);
+    border-radius: 1px;
+}
+#login-btn{
+    background-color: #1773EA;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    width: 80%;
+    cursor: pointer;
+    margin-top: 8px;
+}
